@@ -3,7 +3,7 @@
 
 # Hi, I'm Nikhil Sharma 👋
 
-### Full-Stack Developer | Founder @ DNM Technologies | AI/ML Enthusiast
+### Full-Stack Developer | Founder @ DNM Technologies | JAVA | SPRINGBOOT
 
 Building practical software solutions, engineering backend systems, and exploring intelligent applications.
 
@@ -33,7 +33,6 @@ I'm a Computer Science undergraduate at **Jawaharlal Nehru University (JNU)**, p
 - 🚀 Founder of **DNM Technologies**.
 - 💻 Building full-stack applications using React, Node.js, Express and MongoDB.
 - 🏗️ Interested in backend engineering, system design and scalable applications.
-- 🤖 Exploring Machine Learning, Deep Learning, LLMs and RAG systems.
 - 🧠 Strengthening my problem-solving skills through Data Structures and Algorithms.
 - 🔧 Experienced in developing, deploying and maintaining production-ready applications.
 
@@ -55,18 +54,6 @@ I believe in learning by building, understanding engineering fundamentals, and t
 - Authentication and authorization
 - MongoDB and SQL
 - Production deployment
-
-</td>
-<td width="50%" valign="top">
-
-### 🤖 AI & Machine Learning
-
-- Python and data analysis
-- Machine Learning fundamentals
-- Deep Learning and Transformers
-- LLM applications
-- Retrieval-Augmented Generation
-- AI workflow automation
 
 </td>
 </tr>
@@ -119,11 +106,6 @@ I believe in learning by building, understanding engineering fundamentals, and t
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgres" />
 </p>
 
-### AI / ML
-
-<p>
-<img src="https://skillicons.dev/icons?i=numpy,pytorch,tensorflow,sklearn" />
-</p>
 
 ### Tools & Infrastructure
 
