@@ -9,10 +9,10 @@ Building practical software solutions, engineering backend systems, and explorin
 
 <br/>
 
-<a href="YOUR_LINKEDIN_URL">
+<a href="https://www.linkedin.com/in/nikhilsharma70540?utm_source=share_via&utm_content=profile&utm_medium=member_android">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="YOUR_LEETCODE_URL">
+<a href="https://leetcode.com/u/6cOEUgzj2m">
   <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
 </a>
 <a href="https://github.com/nikhilsharma-max">
