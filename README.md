@@ -3,13 +3,13 @@
 
 # Hi, I'm Nikhil Sharma 👋
 
-### Full-Stack Developer | Founder @ DNM Technologies | JAVA | SPRINGBOOT
+### Full-Stack Developer | Java & Spring Boot | Founder @ DNM Technologies
 
-Building practical software solutions, engineering backend systems, and exploring intelligent applications.
+Building practical software solutions, engineering backend systems, and exploring scalable application architectures.
 
 <br/>
 
-<a href="https://www.linkedin.com/in/nikhilsharma70540?utm_source=share_via&utm_content=profile&utm_medium=member_android">
+<a href="https://www.linkedin.com/in/nikhilsharma70540">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="https://leetcode.com/u/6cOEUgzj2m">
@@ -28,15 +28,16 @@ Building practical software solutions, engineering backend systems, and explorin
 
 ## 👨‍💻 About Me
 
-I'm a Computer Science undergraduate at **Jawaharlal Nehru University (JNU)**, passionate about software engineering and building technology that solves real-world problems.
+I'm a Computer Science undergraduate at **Jawaharlal Nehru University (JNU)**, passionate about software engineering, backend development, and building technology that solves real-world problems.
 
 - 🚀 Founder of **DNM Technologies**.
-- 💻 Building full-stack applications using React, Node.js, Express and MongoDB.
-- 🏗️ Interested in backend engineering, system design and scalable applications.
+- 💻 Building full-stack applications using React.js, Node.js, Express.js and MongoDB.
+- ☕ Working with Java and exploring enterprise backend development using Spring Boot.
+- 🏗️ Interested in backend engineering, microservices, system design and scalable applications.
 - 🧠 Strengthening my problem-solving skills through Data Structures and Algorithms.
 - 🔧 Experienced in developing, deploying and maintaining production-ready applications.
 
-I believe in learning by building, understanding engineering fundamentals, and turning ideas into working products.
+I believe in learning by building, understanding engineering fundamentals, and turning ideas into reliable software products.
 
 ---
 
@@ -56,6 +57,18 @@ I believe in learning by building, understanding engineering fundamentals, and t
 - Production deployment
 
 </td>
+<td width="50%" valign="top">
+
+### ☕ Java & Spring Boot
+
+- Core Java and OOP
+- Spring Boot application development
+- Spring MVC and REST APIs
+- Spring Data JPA and Hibernate
+- Spring Security fundamentals
+- Microservices architecture
+
+</td>
 </tr>
 <tr>
 <td width="50%" valign="top">
@@ -66,7 +79,7 @@ I believe in learning by building, understanding engineering fundamentals, and t
 - Object-Oriented Programming
 - Database Management Systems
 - System Design fundamentals
-- Java and Spring Boot
+- SQL and database modelling
 - Docker and DevOps fundamentals
 
 </td>
@@ -78,6 +91,7 @@ I believe in learning by building, understanding engineering fundamentals, and t
 - Developing business-oriented software
 - Exploring automation solutions
 - Product development
+- Client communication and project delivery
 - Startup experimentation
 
 </td>
@@ -100,12 +114,17 @@ I believe in learning by building, understanding engineering fundamentals, and t
 <img src="https://skillicons.dev/icons?i=react,vite,tailwind" />
 </p>
 
-### Backend & Databases
+### Backend Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgres" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,spring,hibernate" />
 </p>
 
+### Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" />
+</p>
 
 ### Tools & Infrastructure
 
@@ -126,6 +145,7 @@ I believe in learning by building, understanding engineering fundamentals, and t
 - JWT authentication and session management.
 - Role-Based Access Control.
 - Cloud media and email integrations.
+- Responsive administrative dashboards.
 
 **Tech Stack:** React.js · Node.js · Express.js · MongoDB · JWT · Cloudinary
 
@@ -138,6 +158,7 @@ I believe in learning by building, understanding engineering fundamentals, and t
 - Conflict serializability analysis.
 - Precedence graph construction.
 - Cycle detection and topological sorting.
+- Generation of valid serial schedules.
 - Interactive transaction dependency visualization.
 
 **Tech Stack:** Java · React.js · Node.js · Express.js · Docker
@@ -152,6 +173,7 @@ I believe in learning by building, understanding engineering fundamentals, and t
 - Course, faculty and student-resource modules.
 - Backend API and email integration.
 - Production deployment and custom domain configuration.
+- Documentation and maintenance support.
 
 **Tech Stack:** React.js · Node.js · Express.js · MongoDB
 
@@ -163,6 +185,7 @@ I believe in learning by building, understanding engineering fundamentals, and t
 
 **International Conference Website — JNU**
 
+- Developed a production-ready conference website.
 - Conference information and registration modules.
 - Speaker, committee and paper-submission sections.
 - Production deployment and domain configuration.
@@ -182,9 +205,10 @@ Building and delivering digital solutions for businesses and educational institu
 
 - Client requirement gathering and project planning.
 - Full-stack application development.
-- API integration and deployment.
+- Backend API integration and deployment.
 - Domain, DNS and SSL configuration.
 - Documentation, maintenance and client communication.
+- End-to-end project ownership and delivery.
 
 ---
 
@@ -196,7 +220,7 @@ Building and delivering digital solutions for businesses and educational institu
 
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikhilsharma-max&layout=compact&theme=github_dark&hide_border=true" />
 
-<br/>
+<br/><br/>
 
 <img src="https://streak-stats.demolab.com?user=nikhilsharma-max&theme=github-dark-blue&hide_border=true" />
 
@@ -210,10 +234,10 @@ I'm always interested in connecting with developers, founders, and people workin
 
 <div align="center">
 
-<a href="YOUR_LINKEDIN_URL">
+<a href="https://www.linkedin.com/in/nikhilsharma70540">
   <img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin" />
 </a>
-<a href="YOUR_LEETCODE_URL">
+<a href="https://leetcode.com/u/6cOEUgzj2m">
   <img src="https://img.shields.io/badge/LeetCode-Explore_My_Solutions-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
 </a>
 <a href="mailto:nikhilsharma745408@gmail.com">
